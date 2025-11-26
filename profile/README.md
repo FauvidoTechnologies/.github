@@ -4,7 +4,7 @@
 
 ### Projects
 - [Open-Atlas](https://github.com/fauvidoTechnologies/open-atlas): Autonomous OSINT framework  
-- [PyBrowserAutomation](https://github.com/fauvidoTechnologies/PyBrowserAutomation): No-code browser automation for intelligence gathering (and general browser automations)
+- [pyba](https://github.com/fauvidoTechnologies/pyba): No-code browser automation for intelligence gathering (and general browser automations)
 - [TerminAI](https://github.com/fauvidoTechnologies/terminai): A terminal with AI inbuilt. You can optionally run normal linux commands, or use the LLM directly
 
 ### Under research and developement
