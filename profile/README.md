@@ -11,6 +11,7 @@
 
 ### Under research and developement
 
+- clint: Import linter via contracts for python modules
 - language: We're developing a new language. Papers and results coming soon
 - OHTTP-Python: Privacy-preserving and fast oblivious HTTP library in python 
 - Atlas: Core cognitive engine for autonomous analysis and intelligence
